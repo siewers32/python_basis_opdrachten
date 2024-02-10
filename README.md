@@ -3,9 +3,9 @@
 ## Opdrachten en normering
 * Maak iedere week minimaal 1 map met opdrachten. Bewaar de opdrachten op github of in onedrive 
 
-* Na 10 weken heb je bespreken we je portfolio.
+* Na 10 weken bespreken we je portfolio.
     * Je kunt alle gemaakte opdrachten tonen.
-    * Je kunt de code toelichten die je hebt gemaakt
+    * Je kunt de code <i>toelichten</i> die je hebt gemaakt
     * Je krijgt een waardering (4, 6 of 8).
 * Na 20 weken is er wederom een portfoliobespreking volgens dezelfde procedure en normering.
     * Uiteindelijk behaal je 2 cijfers
