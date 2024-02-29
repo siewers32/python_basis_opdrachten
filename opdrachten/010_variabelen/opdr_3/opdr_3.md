@@ -6,7 +6,7 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 ### Opdracht
 Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
-* Commit en push je code naar github
+* Commit en push je code naar github of bewaar in onedrive
 
 Maak van onderstaande namen en waarden een dictionary.  
 Zorg ervoor dat de dictionary wordt geprint.
