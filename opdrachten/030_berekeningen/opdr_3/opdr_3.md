@@ -10,7 +10,7 @@ Maak gebruik van het bestand: opdr_3.py
 
 Maak een variabele a en een variabele b. 
 
-> b = 4a<sup>3</sup> - 2a<sup>2</sup> - 1
+> y = 4x<sup>3</sup> - 2x<sup>2</sup> - 1
 
 Stel de volgende waarden voor x in om je code te testen
 Tip: Denk aan de volgorde waarin python omgaat met berwerkingen. 
