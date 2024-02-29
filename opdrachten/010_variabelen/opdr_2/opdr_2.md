@@ -8,7 +8,7 @@ Maak gebruik van het bestand: opdr_2.py
 * Pas de code aan van opdr_2.py
 * Commit en push je code naar github of bewaar in onedrive
 
-Maak van onderstaande waarden een tuple.
+Ken onderstaande waarden toe aan een variabele `my_tuple` van het type tuple.
 Zorg ervoor dat de tuple wordt geprint.
 
 11   

@@ -8,7 +8,7 @@ Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
 * Commit en push je code naar github of bewaar in onedrive
 
-Maak van onderstaande namen en waarden een dictionary.  
+Ken onderstaande waarden toe aan een variabele `my_dict` van het type dictionary  
 Zorg ervoor dat de dictionary wordt geprint.
 
 naam = willem  

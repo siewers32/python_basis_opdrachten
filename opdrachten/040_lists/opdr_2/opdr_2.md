@@ -42,7 +42,7 @@ Output:
 >De rivier Maas stroomt onder andere door Nederland
 
 Print de naam van de 3e rivier  
-Print het 3e land waar de 1e rivier doorheen stroomt
+Print het 3e land waar de 3e rivier doorheen stroomt
 Zowel land als rivier beginnen met een hoofdletter 
 
 Output:  

@@ -10,7 +10,6 @@ Maak gebruik van het bestand: opdr_2.py
 
 Zoek op internet op hoe je de temperatuur in Celcius naar Fahrenheit omrekent en andersom.
 
-
 Maak 2 variabelen c en f voor respectievelijk Celsius en Fahrenheit:
 Geef de variabelen onderstaande waarde en zorg ervoor dat je programma de bijbehorende output genereerd
 ```python
