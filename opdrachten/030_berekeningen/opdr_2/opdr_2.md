@@ -15,9 +15,9 @@ Maak 2 variabelen c en f voor respectievelijk Celsius en Fahrenheit:
 Geef de variabelen onderstaande waarde en zorg ervoor dat je programma de bijbehorende output genereerd
 ```python
 c = -12
-f = 144
+f = 102
 ```
-> -12 graden Celsius is gelijk aan -24.4 graden Fahrenheit  
+> -12 graden Celsius is gelijk aan 10.4 graden Fahrenheit  
 > 102 graden Fahrenheit is gelijk aan 38.9 graden Celcius
 ```python
 c = 62.2
